@@ -1,68 +1,199 @@
-# [Introduction]
+# PanStan Ensemble 
 
-## Collector Narrative
+## Composer Narrative
 
-### Story
 
-[Story text]
 
-[Story text]
+## Related Readings  
 
-[Story text]
 
-[Story text]
-
-[Story text]
-
-[Story text]
-
-**Related References:**  
-[Reference 1]  
-[Reference 2]
-
-**Catalogue ID:** [ID]
-
-## Pictures
-
+**Catalogue of the ensemble:**
+---
+## Cultural Designation
+### Pictures
+ 
 - [ID]-front.jpeg
 - [ID]-side.jpeg
 - [ID]-detail.jpeg
 
 ---
-
-## Additional Information - Provenance, Cultural Context
-
-- **What:** [Description]
-- **Where:** [Location]
-- **When:** [Date / Period]
-- **Why:** [Purpose / Significance]
-- **Who:** [People / Community / Creator]
-- **How:** [Method / Creation Process]
-
+## Item and caterlog ID
 ---
-
 ## Physical Attributes
 
 ### Materials
-
 - [Material 1]
 - [Material 2]
 
 ### Dimensions
-
 - **Height:** [X] cm
 - **Width:** [X] cm
 
 ### Estimated Age
-
 - [Estimated Age]
 
 ### Adornments
-
 - [Adornments]
-
 ### Condition
-
 - [Condition]
+---
+
+## Provenance 
+The place of origin, source, or the history of ownership and custody of an item
+
+### Pictures
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
 
 ---
+## Cultural Designation
+### Pictures
+ 
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Item and caterlog ID
+---
+## Physical Attributes
+
+### Materials
+- [Material 1]
+- [Material 2]
+
+### Dimensions
+- **Height:** [X] cm
+- **Width:** [X] cm
+
+### Estimated Age
+- [Estimated Age]
+
+### Adornments
+- [Adornments]
+### Condition
+- [Condition]
+---
+
+## Provenance 
+The place of origin, source, or the history of ownership and custody of an item
+
+### Pictures
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Cultural Designation
+### Pictures
+ 
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Item and caterlog ID
+---
+## Physical Attributes
+
+### Materials
+- [Material 1]
+- [Material 2]
+
+### Dimensions
+- **Height:** [X] cm
+- **Width:** [X] cm
+
+### Estimated Age
+- [Estimated Age]
+
+### Adornments
+- [Adornments]
+### Condition
+- [Condition]
+---
+
+## Provenance 
+The place of origin, source, or the history of ownership and custody of an item
+
+### Pictures
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Cultural Designation
+### Pictures
+ 
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Item and caterlog ID
+---
+## Physical Attributes
+
+### Materials
+- [Material 1]
+- [Material 2]
+
+### Dimensions
+- **Height:** [X] cm
+- **Width:** [X] cm
+
+### Estimated Age
+- [Estimated Age]
+
+### Adornments
+- [Adornments]
+### Condition
+- [Condition]
+---
+
+## Provenance 
+The place of origin, source, or the history of ownership and custody of an item
+
+### Pictures
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Cultural Designation
+### Pictures
+ 
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
+
+---
+## Item and caterlog ID
+---
+## Physical Attributes
+
+### Materials
+- [Material 1]
+- [Material 2]
+
+### Dimensions
+- **Height:** [X] cm
+- **Width:** [X] cm
+
+### Estimated Age
+- [Estimated Age]
+
+### Adornments
+- [Adornments]
+### Condition
+- [Condition]
+---
+
+## Provenance 
+The place of origin, source, or the history of ownership and custody of an item
+
+### Pictures
+- [ID]-front.jpeg
+- [ID]-side.jpeg
+- [ID]-detail.jpeg
